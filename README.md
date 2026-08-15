@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./header.svg" width="100%">
+
+</div><div align="center">
+
 # 🕷️ H4YDAR
 
 ### `CODE • CREATE • EXPLORE`
