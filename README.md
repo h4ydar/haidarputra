@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/haidarputra/haidarputra/main/header.svg" width="100%" alt="H4YDAR Neon Banner">
+<img src="https://raw.githubusercontent.com/h4ydar/haidarputra/main/header.svg" width="100%" alt="H4YDAR Neon Banner">
 
 <br>
 
@@ -143,11 +143,11 @@ Mengeksplorasi particle system, objek 3D, dan visual interaktif.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=haidarputra&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=h4ydar&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="GitHub Stats">
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=haidarputra&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=h4ydar&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak">
 
 </div>
 
@@ -157,7 +157,7 @@ Mengeksplorasi particle system, objek 3D, dan visual interaktif.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=haidarputra&theme=redical&hide_border=true&area=true" alt="Contribution Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=h4ydar&theme=redical&hide_border=true&area=true" alt="Contribution Graph">
 
 </div>
 
