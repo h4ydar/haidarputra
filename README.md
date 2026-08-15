@@ -16,11 +16,17 @@
 
 ## 🕸️ SPIDER-SENSE
 
-**STATUS:** 🟢 ONLINE  
-**CODING:** 🟢 ACTIVE  
-**CREATIVITY:** 🟢 UNLOCKED  
-**LEARNING:** 🟢 IN PROGRESS  
-**SPIDER-SENSE:** 🕷️ DETECTING...
+<div align="center">
+
+| SYSTEM | STATUS |
+|:---:|:---:|
+| 🖥️ System | 🟢 ONLINE |
+| 💻 Coding | 🟢 ACTIVE |
+| 🧠 Creativity | 🟢 UNLOCKED |
+| 📚 Learning | 🟢 IN PROGRESS |
+| 🕷️ Spider-Sense | 🔴 DETECTING |
+
+</div>
 
 ---
 
@@ -32,7 +38,7 @@
 
 <br><br>
 
-`Python` `OpenCV` `MediaPipe` `NumPy` `Pygame` `OpenGL` `GitHub`
+`Python` • `OpenCV` • `MediaPipe` • `NumPy` • `Pygame` • `OpenGL` • `GitHub`
 
 </div>
 
@@ -44,24 +50,24 @@
 
 **Interactive 3D • Computer Vision • Hand Tracking**
 
-NebulaHeart 3D adalah project interaktif berbasis Python yang menggunakan kamera dan hand tracking untuk mengontrol visual partikel secara real-time.
+NebulaHeart 3D adalah project interaktif berbasis Python yang menggunakan kamera dan hand tracking untuk mengontrol visual secara real-time.
 
-### ✋ Gesture System
+### ✋ GESTURE SYSTEM
 
 | Gesture | Mode |
-|---|---|
-| 🖐️ Open Hand | 🌌 Cosmic Space |
-| ☝️ One Finger | 🪐 Saturn |
-| ✌️ Peace | 💙 I LOVE U |
-| ✊ Fist | ❤️ Heart |
+|:---:|:---|
+| 🖐️ | 🌌 Cosmic Space |
+| ☝️ | 🪐 Saturn |
+| ✌️ | 💙 I LOVE U |
+| ✊ | ❤️ Heart |
 
-### ⚡ Features
+### ⚡ FEATURES
 
 - ✋ Real-time Hand Tracking
 - 📷 Camera Interaction
 - 🌌 3D Particle System
 - 🪐 Saturn Visualization
-- 💙 Interactive `I LOVE U`
+- 💙 Interactive I LOVE U
 - ❤️ Animated Heart
 - 🎮 Keyboard Controls
 - 📊 FPS Display
@@ -70,44 +76,48 @@ NebulaHeart 3D adalah project interaktif berbasis Python yang menggunakan kamera
 
 ## 💥 CURRENT MISSIONS
 
-### 🐍 Python
+### 🐍 PYTHON
 
-Mempelajari Python dan membuat project interaktif.
+Mempelajari Python dan menggunakannya untuk membuat berbagai project interaktif.
 
-### 👁️ Computer Vision
+### 👁️ COMPUTER VISION
 
-Mengeksplorasi bagaimana komputer dapat mengenali gambar dan gerakan.
+Mengeksplorasi bagaimana komputer dapat mengenali gambar, gerakan, dan interaksi manusia.
 
-### ✋ Hand Tracking
+### ✋ HAND TRACKING
 
-Mengembangkan sistem interaksi menggunakan gerakan tangan.
+Membangun sistem interaksi menggunakan gerakan tangan.
 
-### 🌌 3D Graphics
+### 🌌 3D GRAPHICS
 
-Mengeksplorasi visual partikel dan objek 3D.
+Mengeksplorasi particle system, objek 3D, dan visual interaktif.
 
 ---
 
 ## 🧬 SPIDER-SENSE // CURRENTLY LEARNING
 
-| Skill | Progress |
-|---|---|
+<div align="center">
+
+| Skill | Level |
+|:---:|:---:|
 | 🐍 Python | █████████░░ |
 | 👁️ Computer Vision | ████████░░░ |
 | ✋ Hand Tracking | ████████░░░ |
 | 🌌 3D Graphics | ██████░░░░░ |
 | 🐙 GitHub | ███████░░░░ |
 
+</div>
+
 ---
 
 ## 🏆 MISSIONS COMPLETED
 
-- ✅ Membuat project Python Hand Tracking
-- ✅ Membuat sistem partikel 3D
-- ✅ Menghubungkan gesture dengan visual
-- ✅ Membuat NebulaHeart 3D
-- ✅ Membuat repository GitHub
-- 🔄 Terus mengembangkan project
+- ✅ Python Hand Tracking
+- ✅ 3D Particle System
+- ✅ Gesture-controlled Visuals
+- ✅ NebulaHeart 3D
+- ✅ GitHub Project
+- 🔄 More missions incoming...
 
 ---
 
@@ -133,11 +143,11 @@ Mengeksplorasi visual partikel dan objek 3D.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=haidarputra&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=haidarputra&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="GitHub Stats">
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=haidarputra&theme=radical&hide_border=true" alt="GitHub Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=haidarputra&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak">
 
 </div>
 
@@ -155,10 +165,14 @@ Mengeksplorasi visual partikel dan objek 3D.
 
 ## 💭 THE MINDSET
 
-> 🕷️ Stay curious.  
-> 🕸️ Keep building.  
-> 💻 Keep learning.  
-> 🚀 Keep improving.
+<div align="center">
+
+> 🕷️ **Stay curious.**  
+> 🕸️ **Keep building.**  
+> 💻 **Keep learning.**  
+> 🚀 **Keep improving.**
+
+</div>
 
 ---
 
