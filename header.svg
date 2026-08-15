@@ -1,179 +1,65 @@
-<div align="center">
-
-<img src="./header.svg" width="100%" alt="H4YDAR Neon Banner">
-
-<br>
-
-# 🕷️ H4YDAR
-
-### `CODE • CREATE • EXPLORE`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=900&color=E62429&center=true&vCenter=true&width=700&lines=SPIDER-SENSE%3A+ONLINE;WEB-SHOOTERS%3A+READY;CODING+IN+PROGRESS...;A+NEW+DAY+BEGINS...;BUILDING+NEBULAHEART+3D" alt="Typing Animation">
-
-</div>
-
----
-
-## 🕸️ SPIDER-SENSE
-
-**STATUS:** 🟢 ONLINE  
-**CODING:** 🟢 ACTIVE  
-**CREATIVITY:** 🟢 UNLOCKED  
-**LEARNING:** 🟢 IN PROGRESS  
-**SPIDER-SENSE:** 🕷️ DETECTING...
-
----
-
-## 🧪 WEB-SHOOTER ARSENAL
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,opencv,github,vscode" alt="Skills">
-
-</div>
-
-<p align="center">
-
-`Python` `OpenCV` `MediaPipe` `NumPy` `Pygame` `OpenGL` `GitHub`
-
-</p>
-
----
-
-## 🕷️ MISSION LOG
-
-### 🌌 NebulaHeart 3D
-
-**Interactive 3D • Computer Vision • Hand Tracking**
-
-NebulaHeart 3D adalah project interaktif berbasis Python yang menggunakan kamera dan hand tracking untuk mengontrol visual partikel secara real-time.
-
-### ✋ Gesture System
-
-| Gesture | Mode |
-|---|---|
-| 🖐️ Open Hand | 🌌 Cosmic Space |
-| ☝️ One Finger | 🪐 Saturn |
-| ✌️ Peace | 💙 I LOVE U |
-| ✊ Fist | ❤️ Heart |
-
-### ⚡ Features
-
-- ✋ Real-time Hand Tracking
-- 📷 Camera Interaction
-- 🌌 3D Particle System
-- 🪐 Saturn Visualization
-- 💙 Interactive `I LOVE U`
-- ❤️ Animated Heart
-- 🎮 Keyboard Controls
-- 📊 FPS Display
-
----
-
-## 💥 CURRENT MISSIONS
-
-### 🐍 Python
-
-Mempelajari Python dan membuat project interaktif.
-
-### 👁️ Computer Vision
-
-Mengeksplorasi bagaimana komputer dapat mengenali gambar dan gerakan.
-
-### ✋ Hand Tracking
-
-Mengembangkan sistem interaksi menggunakan gerakan tangan.
-
-### 🌌 3D Graphics
-
-Mengeksplorasi visual partikel dan objek 3D.
-
----
-
-## 🧬 SPIDER-SENSE // CURRENTLY LEARNING
-
-| Skill | Progress |
-|---|---|
-| 🐍 Python | █████████░░ |
-| 👁️ Computer Vision | ████████░░░ |
-| ✋ Hand Tracking | ████████░░░ |
-| 🌌 3D Graphics | ██████░░░░░ |
-| 🐙 GitHub | ███████░░░░ |
-
----
-
-## 🏆 MISSIONS COMPLETED
-
-- ✅ Membuat project Python Hand Tracking
-- ✅ Membuat sistem partikel 3D
-- ✅ Menghubungkan gesture dengan visual
-- ✅ Membuat NebulaHeart 3D
-- ✅ Membuat repository GitHub
-- 🔄 Terus mengembangkan project
-
----
-
-## 📡 THE WEB
-
-<div align="center">
-
-<a href="https://www.tiktok.com/@hy">
-<img src="https://img.shields.io/badge/TikTok-%40hy-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
-</a>
-
-&nbsp;
-
-<a href="https://www.instagram.com/haydarbeyurss">
-<img src="https://img.shields.io/badge/Instagram-%40haydarbeyurss-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
-</div>
-
----
-
-## 📊 GITHUB SPIDER-SENSE
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=haidarputra&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=haidarputra&theme=radical&hide_border=true" alt="GitHub Streak">
-
-</div>
-
----
-
-## 🕸️ CONTRIBUTION WEB
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=haidarputra&theme=redical&hide_border=true&area=true" alt="Contribution Graph">
-
-</div>
-
----
-
-## 💭 THE MINDSET
-
-> 🕷️ Stay curious.  
-> 🕸️ Keep building.  
-> 💻 Keep learning.  
-> 🚀 Keep improving.
-
----
-
-<div align="center">
-
-# 🕷️ H4YDAR
-
-### `CODE • CREATE • REPEAT`
-
-**🕸️ A NEW DAY. A NEW PROJECT. A NEW MISSION. 🕸️**
-
-<br>
-
-⭐ Thanks for visiting my profile!
-
-</div>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300">
+<rect width="1000" height="300" fill="#050505"/>
+
+<rect x="0" y="0" width="1000" height="300" fill="#18030a"/>
+
+<!-- Neon glow -->
+<circle cx="850" cy="150" r="120" fill="#ff0033" opacity="0.12"/>
+<circle cx="850" cy="150" r="80" fill="#ff0033" opacity="0.15"/>
+
+<!-- Web -->
+<g fill="none" stroke="#ff1e3c" stroke-width="2" opacity="0.25">
+<circle cx="850" cy="150" r="40"/>
+<circle cx="850" cy="150" r="70"/>
+<circle cx="850" cy="150" r="100"/>
+<line x1="850" y1="40" x2="850" y2="260"/>
+<line x1="740" y1="150" x2="960" y2="150"/>
+<line x1="770" y1="70" x2="930" y2="230"/>
+<line x1="930" y1="70" x2="770" y2="230"/>
+</g>
+
+<!-- Neon line -->
+<rect x="720" y="45" width="5" height="210" rx="3" fill="#ff0033"/>
+
+<!-- Title -->
+<text x="70" y="125"
+font-family="Arial, Helvetica, sans-serif"
+font-size="64"
+font-weight="bold"
+letter-spacing="8"
+fill="white">
+H4YDAR
+</text>
+
+<!-- Red neon underline -->
+<rect x="72" y="145" width="270" height="5" rx="3" fill="#ff0033"/>
+
+<!-- Subtitle -->
+<text x="75" y="190"
+font-family="Arial, Helvetica, sans-serif"
+font-size="22"
+font-weight="bold"
+letter-spacing="4"
+fill="#ff4055">
+CODE • CREATE • EXPLORE
+</text>
+
+<text x="75" y="225"
+font-family="Arial, Helvetica, sans-serif"
+font-size="15"
+letter-spacing="3"
+fill="white"
+opacity="0.7">
+SPIDER-SENSE // ONLINE
+</text>
+
+<!-- Corners -->
+<path d="M0 0 H180 M0 0 V70"
+stroke="#ff0033"
+stroke-width="5"/>
+
+<path d="M1000 300 H820 M1000 300 V230"
+stroke="#ff0033"
+stroke-width="5"/>
+
+</svg>
