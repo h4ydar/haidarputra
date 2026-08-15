@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/haidarputra/haidarputra/main/header.svg" width="100%" alt="H4YDAR Neon Banner">
+
+<br>
+
 # 🕷️ H4YDAR
 
 ### `CODE • CREATE • EXPLORE`
@@ -24,11 +28,13 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,opencv,github,vscode">
+<img src="https://skillicons.dev/icons?i=python,opencv,github,vscode" alt="Skills">
 
-</div>
+<br><br>
 
 `Python` `OpenCV` `MediaPipe` `NumPy` `Pygame` `OpenGL` `GitHub`
+
+</div>
 
 ---
 
@@ -65,26 +71,32 @@ NebulaHeart 3D adalah project interaktif berbasis Python yang menggunakan kamera
 ## 💥 CURRENT MISSIONS
 
 ### 🐍 Python
+
 Mempelajari Python dan membuat project interaktif.
 
 ### 👁️ Computer Vision
+
 Mengeksplorasi bagaimana komputer dapat mengenali gambar dan gerakan.
 
 ### ✋ Hand Tracking
+
 Mengembangkan sistem interaksi menggunakan gerakan tangan.
 
 ### 🌌 3D Graphics
+
 Mengeksplorasi visual partikel dan objek 3D.
 
 ---
 
 ## 🧬 SPIDER-SENSE // CURRENTLY LEARNING
 
-🐍 **Python** █████████░░  
-👁️ **Computer Vision** ████████░░░  
-✋ **Hand Tracking** ████████░░░  
-🌌 **3D Graphics** ██████░░░░░  
-🐙 **GitHub** ███████░░░░
+| Skill | Progress |
+|---|---|
+| 🐍 Python | █████████░░ |
+| 👁️ Computer Vision | ████████░░░ |
+| ✋ Hand Tracking | ████████░░░ |
+| 🌌 3D Graphics | ██████░░░░░ |
+| 🐙 GitHub | ███████░░░░ |
 
 ---
 
@@ -104,11 +116,13 @@ Mengeksplorasi visual partikel dan objek 3D.
 <div align="center">
 
 <a href="https://www.tiktok.com/@hy">
-<img src="https://img.shields.io/badge/TikTok-%40hy-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+<img src="https://img.shields.io/badge/TikTok-%40hy-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://www.instagram.com/haydarbeyurss">
-<img src="https://img.shields.io/badge/Instagram-%40haydarbeyurss-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Instagram-%40haydarbeyurss-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
 </div>
@@ -119,11 +133,11 @@ Mengeksplorasi visual partikel dan objek 3D.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=haidarputra&show_icons=true&theme=radical&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=haidarputra&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
 
-<br>
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=haidarputra&theme=radical&hide_border=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=haidarputra&theme=radical&hide_border=true" alt="GitHub Streak">
 
 </div>
 
@@ -133,7 +147,7 @@ Mengeksplorasi visual partikel dan objek 3D.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=haidarputra&theme=redical&hide_border=true&area=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=haidarputra&theme=redical&hide_border=true&area=true" alt="Contribution Graph">
 
 </div>
 
@@ -155,6 +169,8 @@ Mengeksplorasi visual partikel dan objek 3D.
 ### `CODE • CREATE • REPEAT`
 
 **🕸️ A NEW DAY. A NEW PROJECT. A NEW MISSION. 🕸️**
+
+<br>
 
 ⭐ Thanks for visiting my profile!
 
